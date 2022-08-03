@@ -1,2 +1,2 @@
 # Codewars-8kyi
-My first tasks with Codewars (8 kyi)
+Add code for task: Count of positives / sum of negatives
