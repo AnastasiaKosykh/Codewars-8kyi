@@ -1,2 +1,2 @@
 # Codewars-8kyi
-Tasks with Codewars (8 kyi)
+My first tasks with Codewars (8 kyi)
