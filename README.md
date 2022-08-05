@@ -1,10 +1,8 @@
-# squareSum(numbers)
-function squareSum(numbers){
-  var sum = 0;
-  for (var i = 0; i < numbers.length; i++)
-    {
-      sum += numbers[i]*numbers[i];
-    }
-  
-  return sum;
+# invert
+
+function invert(array) {
+  for (var i = 0; i < array.length; i++){
+    array[i] *= -1;
+  }
+   return array;
 }
